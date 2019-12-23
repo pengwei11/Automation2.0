@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe8c4865-0a16-4346-889d-09ddd7645bf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pyproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Paperless2.1">
+      <favorite_root url="file://$PROJECT_DIR$" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/Lib" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/Lib/tcl8.6" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/Lib/tcl8.6/init.tcl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/setuptools.pth" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/easy-install.pth" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/core.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/codec.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/idnadata.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/intranges.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/uts46data.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/package_data.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/build.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/check.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/colorlog.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/envbuild.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/wrappers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/_in_process.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/core.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/test.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/writer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/core.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/cacert.pem" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/__main__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/enums.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escsm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/jpcntx.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcssm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/jisfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/big5freq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/big5prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sjisprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/utf8prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cp949prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/latin1prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/charsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/chardistribution.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/universaldetector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/util.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/markers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/scripts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/database.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/locators.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/manifest.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/metadata.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/resources.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/_version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/fallback.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/url.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/wait.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/queue.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/retry.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/request.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/timeout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/response.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/fields.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/request.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/filepost.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/response.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/poolmanager.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/_collections.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/ansi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/win32.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/winterm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/initialise.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/constants.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/serializer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/html5parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/bar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/counter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/helpers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/spinner.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/api.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/auth.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/help.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/certs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/hooks.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/models.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/cookies.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/adapters.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/packages.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/sessions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__version__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/status_codes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/_internal_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distro.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/markers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__about__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/specifiers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/requirements.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/appdirs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/retrying.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/controller.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/ipaddress.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pyparsing.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/tests.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/labels.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/mklabels.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/cmdoptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/main_parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/base_command.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/status_codes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/autocompletion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_set.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_file.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_tracker.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/constructors.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_uninstall.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/git.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/bazaar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/mercurial.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/subversion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/ui.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/misc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/glibc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/hashes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/models.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/typing.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/appdirs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/logging.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/encoding.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/outdated.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/temp_dir.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/packaging.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/filesystem.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/deprecation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/setuptools_build.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/link.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/candidate.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/format_control.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/hash.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/help.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/list.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/show.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/check.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/freeze.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/search.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/download.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/uninstall.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/completion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/configuration.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/check.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/freeze.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/prepare.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/resolve.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/download.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/build_env.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/locations.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pyproject.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pep425tags.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/configuration.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/__main__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/PKG-INFO" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/SOURCES.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/not-zip-safe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/entry_points.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/dependency_links.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/Lib/site-packages/setuptools-40.8.0-py3.6.egg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/dist" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/dist/Automation.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/logs" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/logs/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-13_51_09.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-13_55_56.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-13_56_06.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-13_56_29.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-13_56_30.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_02_20.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_03_29.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_05_49.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_06_21.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_10_09.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_11_55.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_13_58.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_20_00.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_20_10.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_32_52.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_35_48.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/logs/logger-2019-11-28-14_35_49.log" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/.name" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/Paperless2.1.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/Utils" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/Utils/Logger.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/ReadFile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/ParseYaml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/WriteFile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/ConfigRead.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/DirAndTime.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Utils/ParseExcel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/action" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/action/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/action/WaitUnit.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/action/ObjectMap.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/action/PageAction.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/config" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/config/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/config/TimeWait.yaml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/config/Parameter.yaml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/config/GuiSelectValue.yaml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/report" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/report/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/drivers" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/drivers/chrome" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/74.0.3729.6" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/74.0.3729.6/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/70.0.3538.97" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/70.0.3538.97/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/72.0.3626.69" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/72.0.3626.69/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/73.0.3683.68" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/73.0.3683.68/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/77.0.3865.40" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/77.0.3865.40/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/78.0.3904.11" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/78.0.3904.11/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/71.0.3578.137" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/71.0.3578.137/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/75.0.3770.140" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/75.0.3770.140/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/76.0.3809.126" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/drivers/chrome/76.0.3809.126/chromedriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/drivers/firefox" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/drivers/firefox/geckodriver.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/drivers/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/Include" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Scripts" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pip.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_bz2.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_msi.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_ssl.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/activate" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pip3.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_lzma.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/tk86t.dll" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pip3.6.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/python.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/select.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/tcl86t.dll" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_ctypes.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_socket.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pyexpat.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/python3.dll" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pythonw.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/sqlite3.dll" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_asyncio.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_decimal.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_hashlib.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_sqlite3.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_tkinter.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/activate.bat" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/Activate.ps1" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/python36.dll" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/winsound.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_testcapi.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pip-script.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/deactivate.bat" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pip3-script.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_overlapped.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_testbuffer.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/unicodedata.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_ctypes_test.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_elementtree.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_testconsole.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/easy_install.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/pip3.6-script.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/vcruntime140.dll" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_testmultiphase.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_multiprocessing.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/easy_install-3.6.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/easy_install-script.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/_testimportmultiple.pyd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Scripts/easy_install-3.6-script.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/resource" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/resource/123.ico" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/resource/123.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/resource/背景色.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/testcase" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/testcase/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/testcase/testPaperless.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/testcase/HTMLTestRunner_cn.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/testdata" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/testdata/ces.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/testdata/PaperlessGui.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/pyvenv.cfg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/screenshots" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/screenshots/登录" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-44-53-247948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-44-56-654948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-45-00-430948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-45-04-469948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-45-17-091948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-45-20-833948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-45-25-434948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-45-30-176948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-51-49-062948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-51-51-910948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-51-55-610948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-51-58-686948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-52-11-038948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-52-14-680948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-52-18-563948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_13-52-23-163948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-02-35-078948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-09-592948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-14-053948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-17-889948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-20-642948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-33-110948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-37-210948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-40-775948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-04-44-936948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-12-29-298948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-12-34-881948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-12-45-227948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-12-48-414948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-13-03-551948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-13-08-185948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-13-13-629948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-13-18-416948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-20-48-318948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-20-50-961948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-20-53-984948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-20-56-600948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-21-07-377948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-21-10-697948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-21-14-620948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-21-18-857948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-21-59-187948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-01-832948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-05-593948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-08-361948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-22-240948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-25-895948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-32-155948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-22-36-665948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-20-269948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-22-968948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-26-000948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-28-950948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-39-801948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-44-036948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-48-115948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-23-52-824948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-29-251948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-32-275948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-35-653948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-38-517948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-50-135948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-53-722948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-33-57-535948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-34-02-103948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-34-39-554948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-34-42-263948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-34-45-382948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-34-48-167948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-34-59-985948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-35-03-568948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-35-07-289948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-35-13-596948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-36-53-509948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-36-56-324948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-37-00-002948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-37-02-797948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-37-14-372948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-37-18-256948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-37-22-539948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-37-27-432948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-38-54-464948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-38-57-914948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-39-01-599948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-39-04-711948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-39-16-526948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-39-20-694948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-39-24-603948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/screenshots/登录/2019-11-28_14-39-29-181948.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/Automation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/exceltemplate" module="Paperless2.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/exceltemplate/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exceltemplate/测试用例模板.xlsx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/Frozen_Dir.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Automation.spec" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Automation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47">
+              <caret line="749" column="32" lean-forward="true" selection-start-line="749" selection-start-column="32" selection-end-line="749" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utils/DirAndTime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>closeEvent</find>
+      <find>sc</find>
+      <find>测试用例模板</find>
+      <find>温馨提示</find>
+      <find>CREATE_ENEMY_EVENT</find>
+      <find>sava</find>
+      <find>Title</find>
+      <find>SD</find>
+      <find>print</find>
+      <find>filepath</find>
+      <find>browser</find>
+      <find>self.pageaction.quitBrowser()</find>
+      <find>quit</find>
+      <find>save</find>
+      <find>assertEq</find>
+      <find>quitbrowser</find>
+      <find>sleep</find>
+      <find>QApplication</find>
+      <find>text</find>
+      <find>setStyleSheet</find>
+      <find>white</find>
+      <find>123</find>
+      <find>执行失败</find>
+      <find>return</find>
+      <find>raise</find>
+      <find>132$%!</find>
+      <find>请先关闭用例文件，再运行测试用例</find>
+      <find>times</find>
+      <find>o_times</find>
+      <find>list</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.parseexcel</replace>
+      <replace>newfile</replace>
+      <replace>red</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/action/__init__.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/testcase/__init__.py" />
+        <option value="$PROJECT_DIR$/exceltemplate/__init__.py" />
+        <option value="$PROJECT_DIR$/utils/frozen_dir.py" />
+        <option value="$PROJECT_DIR$/frozen_dir.py" />
+        <option value="$PROJECT_DIR$/utils/configread.py" />
+        <option value="$PROJECT_DIR$/utils/ConfigRead.py" />
+        <option value="$PROJECT_DIR$/utils/Logger.py" />
+        <option value="$PROJECT_DIR$/Utils/Logger.py" />
+        <option value="$PROJECT_DIR$/../Paperless2.0/utils/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/Utils/DirAndTime.py" />
+        <option value="$PROJECT_DIR$/Utils/WriteFile.py" />
+        <option value="$PROJECT_DIR$/config/GuiSelectValue" />
+        <option value="$PROJECT_DIR$/config/GuiSelectValue.yaml.py" />
+        <option value="$PROJECT_DIR$/config/GuiSelectValue.yaml" />
+        <option value="$PROJECT_DIR$/testcase/test_paperless.py" />
+        <option value="$PROJECT_DIR$/widget.py" />
+        <option value="$PROJECT_DIR$/PaperlessGui(2).py" />
+        <option value="$PROJECT_DIR$/config/TimeWait.yaml" />
+        <option value="$PROJECT_DIR$/Utils/ReadFile.py" />
+        <option value="$PROJECT_DIR$/report/20191122112445.html" />
+        <option value="$PROJECT_DIR$/PaperlessGui(3).py" />
+        <option value="$PROJECT_DIR$/PaperlessGui.py" />
+        <option value="$PROJECT_DIR$/333333.py" />
+        <option value="$PROJECT_DIR$/ces.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/openpyxl/reader/excel.py" />
+        <option value="$PROJECT_DIR$/testdata/PaperlessGui.py" />
+        <option value="$PROJECT_DIR$/testdata/plane_main.py" />
+        <option value="$PROJECT_DIR$/testdata/plane_sprites.py" />
+        <option value="$PROJECT_DIR$/logs/logger-2019-11-29-11_18_34.log" />
+        <option value="$PROJECT_DIR$/testdata/Automation.py" />
+        <option value="$PROJECT_DIR$/../Paperless1.0/PaperlessClient.py" />
+        <option value="$PROJECT_DIR$/../学习文件/pengwei电脑/77/weixin.py" />
+        <option value="$PROJECT_DIR$/Utils/ConfigRead.py" />
+        <option value="$PROJECT_DIR$/Utils/ParseYaml.py" />
+        <option value="$PROJECT_DIR$/action/WaitUnit.py" />
+        <option value="$PROJECT_DIR$/action/ObjectMap.py" />
+        <option value="$PROJECT_DIR$/Utils/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/Frozen_Dir.py" />
+        <option value="$PROJECT_DIR$/PaperlessClient.py" />
+        <option value="$PROJECT_DIR$/testdata/wxGui.py" />
+        <option value="$PROJECT_DIR$/untitled.py" />
+        <option value="$PROJECT_DIR$/testdata/ces.py" />
+        <option value="$PROJECT_DIR$/config/Parameter.yaml" />
+        <option value="F:/Paperless1.0/visualization/PaperlessClient.py" />
+        <option value="$PROJECT_DIR$/testcase/testPaperless.py" />
+        <option value="$PROJECT_DIR$/action/PageAction.py" />
+        <option value="$PROJECT_DIR$/testdata/ce.py" />
+        <option value="$PROJECT_DIR$/Automation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1402" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Automation2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paperless1.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+    <option name="myPyQtBackend" value="PyQt5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Paperless2.1\testdata" />
+      <recent name="E:\Paperless2.1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Automation2.0\resource" />
+      <recent name="E:\Automation2.0" />
+      <recent name="E:\Automation2.0\testdata" />
+      <recent name="E:\Paperless2.1\testdata" />
+      <recent name="E:\Paperless2.1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Automation">
+    <configuration name="Automation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PageAction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/action" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/action/PageAction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PaperlessGui(3)" type="PythonConfigurationType" factoryName="Python">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Paperless2.1\PaperlessGui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testdata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testdata/ce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ces (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testdata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testdata/ces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testPaperless" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pengw\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/testPaperless.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Automation2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="" value="C:=c:\&quot;" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pengw\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="true" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PaperlessGui(3)" />
+      <item itemvalue="Python.testPaperless" />
+      <item itemvalue="Python.Automation" />
+      <item itemvalue="Python.ces (1)" />
+      <item itemvalue="Python.untitled" />
+      <item itemvalue="Python.PageAction" />
+      <item itemvalue="Python.ce" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Automation" />
+        <item itemvalue="Python.ce" />
+        <item itemvalue="Python.PageAction" />
+        <item itemvalue="Python.ces (1)" />
+        <item itemvalue="Python.untitled" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8c4865-0a16-4346-889d-09ddd7645bf7" name="Default Changelist" comment="" />
+      <created>1573697141875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573697141875</updated>
+      <workItem from="1573697173596" duration="19283000" />
+      <workItem from="1573779579319" duration="91248000" />
+      <workItem from="1574240895496" duration="43627000" />
+      <workItem from="1574413599635" duration="12048000" />
+      <workItem from="1574644749789" duration="16873000" />
+      <workItem from="1574747500841" duration="3855000" />
+      <workItem from="1574751382394" duration="21654000" />
+      <workItem from="1574839571795" duration="24059000" />
+      <workItem from="1574929538994" duration="52010000" />
+      <workItem from="1575335265363" duration="74527000" />
+      <workItem from="1575877581075" duration="3286000" />
+      <workItem from="1575881200196" duration="67980000" />
+      <workItem from="1576457236222" duration="8663000" />
+      <workItem from="1576479625648" duration="28788000" />
+      <workItem from="1576630928580" duration="55505000" />
+      <workItem from="1576890377894" duration="16021000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1577070319840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577070319840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_testPaperless_TestPaperless - 2019.11.28 at 10h 10m 18s.xml">
+      <configuration name="Unittests for testPaperless.TestPaperless" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testPaperless_TestPaperless - 2019.11.28 at 10h 10m 26s.xml">
+      <configuration name="Unittests for testPaperless.TestPaperless" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="539427000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.50454545" side_tool="true" weight="0.14285715" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49545455" visible="true" weight="0.14925373" />
+      <window_info id="Structure" order="2" sideWeight="0.5014837" side_tool="true" weight="0.15991472" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4904051" weight="0.24242425" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50959486" side_tool="true" weight="0.24242425" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" sideWeight="0.49573562" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49573562" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.48560768" visible="true" weight="0.2665222" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49840087" weight="0.32900432" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Automation2_0$ces__1_.coverage" NAME="ces (1) Coverage Results" MODIFIED="1576738097439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient.coverage" NAME="PaperlessClient Coverage Results" MODIFIED="1576662017325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Paperless1.0/visualization" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$WriteFile.coverage" NAME="WriteFile Coverage Results" MODIFIED="1573778937251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ces.coverage" NAME="ces Coverage Results" MODIFIED="1574904445607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1577063291562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_3_.coverage" NAME="PaperlessGui(3) Coverage Results" MODIFIED="1574410253608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1574992163191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1574920937876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1575525633581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1576889352034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ParseYaml.coverage" NAME="ParseYaml Coverage Results" MODIFIED="1574306064763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$Logger.coverage" NAME="Logger Coverage Results" MODIFIED="1573712447761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui.coverage" NAME="PaperlessGui Coverage Results" MODIFIED="1574820827737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1575593663047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Automation2_0$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1576722241604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir.coverage" NAME="frozen_dir Coverage Results" MODIFIED="1573700569389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1573714051604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$333333.coverage" NAME="333333 Coverage Results" MODIFIED="1574840461563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1574920258066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ce.coverage" NAME="ce Coverage Results" MODIFIED="1576897281904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir__1_.coverage" NAME="frozen_dir (1) Coverage Results" MODIFIED="1573700581284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient__1_.coverage" NAME="PaperlessClient (1) Coverage Results" MODIFIED="1576717089062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$configread.coverage" NAME="configread Coverage Results" MODIFIED="1573701820802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1576652998241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ReadFile.coverage" NAME="ReadFile Coverage Results" MODIFIED="1574301561442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_2_.coverage" NAME="PaperlessGui(2) Coverage Results" MODIFIED="1574129264754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$Unittests_for_testPaperless_TestPaperless.coverage" NAME="Unittests for testPaperless.TestPaperless Coverage Results" MODIFIED="1574907023450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ParseYaml.coverage" NAME="ParseYaml Coverage Results" MODIFIED="1576228701049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1574922946007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui__1_.coverage" NAME="PaperlessGui (1) Coverage Results" MODIFIED="1574843399075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1573789450809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Automation2_0$wxGui.coverage" NAME="wxGui Coverage Results" MODIFIED="1576720200986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1574905776803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/Paperless1.0/visualization/PaperlessClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QComboBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/testPaperless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="549" column="29" selection-start-line="549" selection-start-column="29" selection-end-line="549" selection-end-column="29" />
+          <folding>
+            <element signature="e#151#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/ConfigRead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/ParseExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="395" selection-start-line="395" selection-end-line="395" />
+          <folding>
+            <element signature="e#246#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/ParseYaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/ReadFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/WriteFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/ObjectMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#250#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/123.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/111.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/111.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6075">
+          <caret line="256" column="32" selection-start-line="256" selection-start-column="32" selection-end-line="256" selection-end-column="32" />
+          <folding>
+            <element signature="e#245#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/123.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/WaitUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/HTMLTestRunner_cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4875">
+          <caret line="201" column="19" selection-start-line="201" selection-start-column="19" selection-end-line="201" selection-end-column="19" />
+          <folding>
+            <element signature="e#3463#3478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtCore/Qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QAbstractItemView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="257" column="8" selection-start-line="257" selection-start-column="8" selection-end-line="257" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/qtconsole/completion_widget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frozen_Dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+          <folding>
+            <element signature="e#157#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/ce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/Logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QListWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="380" column="8" selection-start-line="380" selection-start-column="8" selection-end-line="380" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/PaperlessClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1705">
+          <caret line="241" column="5" selection-start-line="241" selection-start-column="5" selection-end-line="241" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/assertion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/file_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/file_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="315" selection-start-line="315" selection-end-line="315" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/tools/common/BrowserDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1295">
+          <caret line="503" selection-start-line="503" selection-end-line="503" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="551" selection-start-line="551" selection-end-line="551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meeingtopic/test_meetingtopic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="2745" selection-start-line="2745" selection-end-line="2745" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meetingagenda/test_meetingagenda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1111">
+          <caret line="1732" selection-start-line="1732" selection-end-line="1732" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meetingdocument/test_meetingdocument.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1696" selection-start-line="1696" selection-end-line="1696" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meetingslogan/test_meetingslogan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-611">
+          <caret line="1150" selection-start-line="1150" selection-end-line="1150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingmanagement/historyconference/test_historyconference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="1954" selection-start-line="1954" selection-end-line="1954" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingmanagement/meetingconference/test_meetingconference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="959" selection-start-line="959" selection-end-line="959" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingmanagement/meetinglist/test_meetinglist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="1468" selection-start-line="1468" selection-end-line="1468" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/attendees/test_personnelmanagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="1352" selection-start-line="1352" selection-end-line="1352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/nameplate/test_copywritingdesign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="602" selection-start-line="602" selection-end-line="602" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/nameplate/test_nameplatescreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="586" selection-start-line="586" selection-end-line="586" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/nameplate/test_welcomescreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="680" selection-start-line="680" selection-end-line="680" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/usermanagement/organizationalstructure/test_organizationalstructure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/usermanagement/usergroup/test_usergroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="1153" selection-start-line="1153" selection-end-line="1153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/usermanagement/userlist/test_userlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="1303" column="26" selection-start-line="1303" selection-start-column="26" selection-end-line="1303" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="749" column="32" lean-forward="true" selection-start-line="749" selection-start-column="32" selection-end-line="749" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/DirAndTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
