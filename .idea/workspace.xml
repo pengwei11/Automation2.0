@@ -2,104 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe8c4865-0a16-4346-889d-09ddd7645bf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/build_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/locations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pyproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/resolve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/certs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -794,20 +699,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Automation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="749" column="32" lean-forward="true" selection-start-line="749" selection-start-column="32" selection-end-line="749" selection-end-column="32" />
+            <state relative-caret-position="375">
+              <caret line="692" column="48" lean-forward="true" selection-start-line="692" selection-start-column="48" selection-end-line="692" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/testPaperless.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utils/DirAndTime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="450">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/HTMLTestRunner_cn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3900">
+              <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+              <folding>
+                <element signature="e#3463#3478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../seleium_test/python-selenium2-master/report/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../seleium_test/KeyWordPlusDataDrivenFramework-master/RunTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -1220,7 +1164,8 @@
       <workItem from="1576457236222" duration="8663000" />
       <workItem from="1576479625648" duration="28788000" />
       <workItem from="1576630928580" duration="55505000" />
-      <workItem from="1576890377894" duration="16021000" />
+      <workItem from="1576890377894" duration="39216000" />
+      <workItem from="1577258353055" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1577070319840</created>
@@ -1229,7 +1174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577070319840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加">
+      <created>1577070677244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577070677244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1241,7 +1193,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="539427000" />
+    <option name="totallyTimeSpent" value="563022000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1257,7 +1209,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50454545" side_tool="true" weight="0.14285715" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49545455" visible="true" weight="0.14925373" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49545455" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="2" sideWeight="0.5014837" side_tool="true" weight="0.15991472" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4904051" weight="0.24242425" />
@@ -1267,7 +1219,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49573562" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.48560768" visible="true" weight="0.2665222" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.48560768" visible="true" weight="0.29035753" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -1284,14 +1236,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Automation2_0$ces__1_.coverage" NAME="ces (1) Coverage Results" MODIFIED="1576738097439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
     <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient.coverage" NAME="PaperlessClient Coverage Results" MODIFIED="1576662017325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Paperless1.0/visualization" />
     <SUITE FILE_PATH="coverage/Paperless2_1$WriteFile.coverage" NAME="WriteFile Coverage Results" MODIFIED="1573778937251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
     <SUITE FILE_PATH="coverage/Paperless2_1$ces.coverage" NAME="ces Coverage Results" MODIFIED="1574904445607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Automation2_0$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1577063291562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1577234515635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_3_.coverage" NAME="PaperlessGui(3) Coverage Results" MODIFIED="1574410253608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Automation2_0$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1574992163191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
     <SUITE FILE_PATH="coverage/Paperless2_1$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1574920937876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
@@ -1322,30 +1275,10 @@
     <SUITE FILE_PATH="coverage/Paperless2_1$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1574905776803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/Paperless1.0/visualization/PaperlessClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QComboBox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/testPaperless.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="549" column="29" selection-start-line="549" selection-start-column="29" selection-end-line="549" selection-end-column="29" />
-          <folding>
-            <element signature="e#151#190#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1423,16 +1356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/HTMLTestRunner_cn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4875">
-          <caret line="201" column="19" selection-start-line="201" selection-start-column="19" selection-end-line="201" selection-end-column="19" />
-          <folding>
-            <element signature="e#3463#3478#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1654,15 +1577,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Automation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="749" column="32" lean-forward="true" selection-start-line="749" selection-start-column="32" selection-end-line="749" selection-end-column="32" />
+        <state relative-caret-position="375">
+          <caret line="692" column="48" lean-forward="true" selection-start-line="692" selection-start-column="48" selection-end-line="692" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/testPaperless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Utils/DirAndTime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="450">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/HTMLTestRunner_cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3900">
+          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+          <folding>
+            <element signature="e#3463#3478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleium_test/python-selenium2-master/report/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleium_test/KeyWordPlusDataDrivenFramework-master/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -425,6 +425,7 @@ class Application(QWidget):
                     CaseNums = len(self.CaseNum) * int(self.spinBox.text())
                     self.label_15.setText(str(CaseNums))
                 else:
+                    self.label_10.setText('请选择excel.xlsx格式表格导入')
                     QMessageBox.about(self, "提示", "用例格式错误，请重新导入用例")
         except Exception as e:
             print(e)
@@ -466,9 +467,6 @@ class Application(QWidget):
         except Exception as e:
             print(e)
 
-    def ce(self):
-        print(self.CaseNum)
-        print(self.comboBox_2.currentText())
 
     def RunTest(self):
         """
