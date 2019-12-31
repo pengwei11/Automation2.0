@@ -282,7 +282,7 @@ class ParseExcel(object):
                 elif f != '' or f is not None:
                     self.wb[sheetname].cell(e + 2, testStep_Error, '')
             for g, h in enumerate(err_pics):
-                if h == '错误截图':
+                if h == '测试截图':
                     continue
                 elif h != '' or h is not None:
                     self.wb[sheetname].cell(g + 2, testStep_Picture, '')
@@ -353,55 +353,5 @@ class ParseExcel(object):
 
 
 if __name__ == '__main__':
-    p = ParseExcel(r'E:\Automation2.0\testdata\无纸化测试文件.xlsx')
-    # p.wb['登录'].column_dimensions['R'].width = 12
-    # p.wb['登录'].row_dimensions[26].height = 33
-    # img = Image(r'E:\Automation2.0\screenshots\登录\test_login_7\2019-12-04_14-24-19-482816.png')
-    # img.height = 44
-    # img.width = 97
-    # p.wb['登录'].add_image(img, 'R'+'26')
-    # p.wb.save(r'E:\Automation2.0\testdata\无纸化测试文件.xlsx')
-    # for i in range(1000):
-    #     p.wb['登录'].column_dimensions['W'].width = 12
-    #     p.wb['登录'].row_dimensions[i+2].height = 33
-    #     img = Image(r'E:\Automation2.0\screenshots\登录\test_login_7\2019-12-04_14-24-20-269816.png')
-    #     img.height = 44
-    #     img.width = 97
-    #     p.wb['登录'].add_image(img, 'R'+str(i+2))
-    # p.wb.save(r'E:\Automation2.0\testdata\无纸化测试文件.xlsx')
-    # p.wb['无纸化测试文件'].cell(1,1).font = Font(color='33ff33')
-    # p.wb['无纸化测试文件'].cell(1,1,'2')
-    # p.wb.save(r'E:\Automation2.0\testdata\无纸化测试文件.xlsx')
-    # p.clearStepColumnValue1('无纸化测试文件')
-    # p.writeCellValue('无纸化测试文件',1, 1, '1111')
-    # for i in range(1000):
-    #     p.writeCellValue('11', i+1, 1, '测试数据')
-    #     print('写入第%s条数据' % i)
-    # #
-    # print(p.getColumnValue('无纸化测试文件', testCase_Sheet))
-    # print(list(filter(None, p.getColumnValue('无纸化测试文件', testCase_Sheet))))
-    # p.writeCellValue('无纸化测试文件', 1, 3, '4')
-    # print(p.getColumnValue('登录', 2))
-    # print(p.getColumnValue('登录', 3))
-    # print(p.getRowValue('登录', 1))
-    # print(p.getRowValue('登录', 2))
-    # p.clearCellValue('登录', 3)
-    # sb = list(filter(None, p.getColumnValue('无纸化测试文件', 9)))
-    # print(list(filter(None, p.getColumnValue('登录', 10))))
-    # p.clearCaseColumnValue('无纸化测试文件')
-    # p.clearStepColumnValue('登录')
-    # print(p.getCellValue('无纸化测试文件', 3 , 2).merged_cell_ranges)
-    # s = []
-    # for i in list(filter(None, p.getColumnValue('无纸化测试文件', testCase_Result))):
-    #     print(i)
-    #     if i.lower() == 'pass':
-    #         s.append(i)
-    # print(s)
-    # print(type(p.getCellValue('无纸化测试文件', 1, 2)).__name__)
-    # for i in p.wb['无纸化测试文件'].merged_cells:
-    #     print(i)
-        # print(p.getCellValue('无纸化测试文件', i[0], i[1]))
-
-    # print(p.getMergeColumnValue('登录',1))
-    p.getCellObject('登录', 20, 18).value = '=HYPERLINK("{}", "{}")'.format("", r"")
-    p.wb.save(r'E:\Automation2.0\testdata\无纸化测试文件.xlsx')
+    p = ParseExcel(r'E:\Automation2.0\exceltemplate\百度测试用例.xlsx')
+    p.clearStepColumnValue('搜索')

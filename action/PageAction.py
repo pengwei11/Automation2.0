@@ -15,7 +15,8 @@ from Utils.DirAndTime import DirAndTime
 from action.WaitUnit import WaitUnit
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import *   # 导入所有异常类
+from selenium.webdriver.common.by import By
+# from selenium.common.exceptions import *   # 导入所有异常类
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains   # 鼠标操作
@@ -32,6 +33,16 @@ class PageAction(object):
 
     def __init__(self):
         self.parseyaml = ParseYaml()
+        self.byDic = {
+            'id': By.ID,
+            'name': By.NAME,
+            'css': By.CSS_SELECTOR,
+            'link_text': By.LINK_TEXT,
+            'xpath': By.XPATH,
+            'class': By.CLASS_NAME,
+            'tag': By.TAG_NAME,
+            'link': By.PARTIAL_LINK_TEXT
+        }
 
     def openBrowser(self):
         version = self.parseyaml.ReadParameter('Version')
@@ -242,6 +253,32 @@ class PageAction(object):
         #     print('输入框输入值错误')
         #     print(e)
 
+    def uploadFile(self, by, locator, value):
+        '''
+        上传单个文件
+        :param by:
+        :param locator:
+        :param value:
+        :return:
+        '''
+        ObjectMap(self.driver).getElement(by, locator).send_keys(value)
+        logger.info('上传文件%s' % value)
+        print('上传文件%s' % value)
+
+    def uploadFiles(self, by, locator, value):
+        '''
+        上传多个文件，value为文件夹路径，
+        :param by:
+        :param locator:
+        :param value:
+        :return:
+        '''
+        for root, dirs, files in os.walk(value):
+            for i in files:
+                ObjectMap(self.driver).getElement(by, locator).send_keys(value+'\\'+i)
+                logger.info('上传文件%s' % i)
+                print('上传文件%s' % i)
+
     def assertTitle(self, titlestr):
         """
         断言页面标题
@@ -384,6 +421,15 @@ class PageAction(object):
         #     logger.info('断言失败')
         #     print('断言失败')
 
+    def assertUrl(self, Url):
+        '''
+        判断当前网址是否和指定网址相同
+        :param Url:
+        :return:
+        '''
+        assert self.driver.current_url == Url
+        logger.info('%s==%s'%(self.driver.current_url, Url))
+        print('%s==%s'%(self.driver.current_url, Url))
 
     def getTitle(self):
         """
@@ -469,8 +515,9 @@ class PageAction(object):
         :return:
         '''
         # try:
-        WebDriverWait(self.driver, 60).until(EC.presence_of_all_elements_located((by, locator)))
-        return self.driver.find_element(by, locator)
+        if by.lower() in self.byDic:
+            element = WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((self.byDic[by.lower()], locator)))
+            return element
         # except NoSuchElementException:
         #     logger.exception('找不到元素')
         #     print('找不到元素')
@@ -483,13 +530,14 @@ class PageAction(object):
 
     def not_wait_find_element(self, by, locator):
         '''
-        显性等待30S判断单个元素是否可见，可见返回元素，否则抛出异常
+        显性等待60S判断单个元素是否可见，可见返回元素，否则抛出异常
         :param loc: 传入参数为By.xx(xx为元素定位方式),Value(为元素定位内容)
         :return:
         '''
         # try:
-        WebDriverWait(self.driver, 600, 0.5).until_not(EC.presence_of_all_elements_located((by, locator)))
-        return self.driver.find_element(by, locator)
+        if by.lower() in self.byDic:
+            element = WebDriverWait(self.driver, 60).until_not(EC.presence_of_element_located((self.byDic[by.lower()], locator)))
+            return element
         # except NoSuchElementException:
         #     logger.exception('找不到元素')
         #     print('找不到元素')
@@ -507,8 +555,9 @@ class PageAction(object):
         :return:
         '''
         # try:
-        WebDriverWait(self.driver, 600).until(EC.text_to_be_present_in_element(by, locator))
-        return EC.text_to_be_present_in_element(by, locator).text
+        if by.lower() in self.byDic:
+            element = WebDriverWait(self.driver, 60).until(EC.text_to_be_present_in_element(self.byDic[by.lower()], locator))
+            return element
         # except NoSuchElementException:
         #     logger.exception('找不到元素')
         #     print('找不到元素')
@@ -526,8 +575,9 @@ class PageAction(object):
         :return:
         '''
         # try:
-        WebDriverWait(self.driver, 600).until_not(EC.text_to_be_present_in_element(by, locator))
-        return EC.text_to_be_present_in_element(by, locator).text
+        if by.lower() in self.byDic:
+            element = WebDriverWait(self.driver, 60).until_not(EC.text_to_be_present_in_element(self.byDic[by.lower()], locator))
+            return element
         # except NoSuchElementException:
         #     logger.exception('找不到元素')
         #     print('找不到元素')
@@ -555,17 +605,21 @@ class PageAction(object):
 
 if __name__ == '__main__':
     p = PageAction()
-    p.quitBrowser()
     p.openBrowser()
     o = ObjectMap(p.driver)
     # p.saveScreeShot('登录', '侧四')
     # p.getUrl('http://172.16.45.5')
-    str = 'p.getUrl("http://172.16.45.5")'
+    str = 'p.getUrl("http://www.baidu.com")'
     eval(str)
-    p.click('css', '.linkColor')
-    p.inputValue('name', 'register', 'CCtd-rZOk-adWi-f3zK-R3O6-mF+X-tg5h-A4dd')
-    p.click('id','registBtn')
-    # p.inputValue('css', '.formTil', '123456')
-    # p.assertLen('css', '.formTil', '4')
-    # p.inputValue('name', 'account', '123')
-    p.assertEqule('css', '.errorTip', '注册码异常 Error Code : 102')
+    p.click('class', 'soutu-btn')
+    p.inputValue('class', 'upload-pic', r'E:\Automation2.0\resource\新建文本文档.txt')
+    p.not_wait_find_element('css', '.soutu-state-waiting.soutu-waiting')
+    print(o.getElement('class', 'soutu-error-main').text)
+    p.assertEqule('class', 'soutu-error-main', '抱歉，您上传的文件不是图片格式，请')
+    # p.click('css', '.linkColor')
+    # p.inputValue('name', 'register', 'CCtd-rZOk-adWi-f3zK-R3O6-mF+X-tg5h-A4dd')
+    # p.click('id','registBtn')
+    # # p.inputValue('css', '.formTil', '123456')
+    # # p.assertLen('css', '.formTil', '4')
+    # # p.inputValue('name', 'account', '123')
+    # p.assertEqule('css', '.errorTip', '注册码异常 Error Code : 102')

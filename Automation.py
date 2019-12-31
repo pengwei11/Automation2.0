@@ -478,7 +478,7 @@ class Application(QWidget):
             parameter = CONFIG_PATH + 'Parameter.yaml'
             if self.lineEdit.text() == '' or self.lineEdit.text() is None:
                 QMessageBox.about(self, "提示", "IP地址不能为空")
-            elif not re.match(r"^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$", self.lineEdit.text()):
+            elif re.match(r"^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$", self.lineEdit.text()) is None and re.match(r'[^\s]*[.com|.cn]', self.lineEdit.text()) is None:
                 QMessageBox.about(self, "提示", "请输入正确IP地址")
             elif self.newfile == '':
                 QMessageBox.about(self, "提示", "请导入测试用例")
@@ -684,8 +684,7 @@ class Application(QWidget):
                 self.toolButton_4.setEnabled(False)
                 self.toolButton_4.setStyleSheet(
                         "QToolButton{font:12pt '宋体';background-color:#8e7f7c;color: white;border-radius:3px;}")
-                # 导入 按钮启用
-                self.toolButton.setEnabled(True)
+                # 导入 按钮启用 self.toolButton.setEnabled(True)
                 self.toolButton.setStyleSheet(
                     "QToolButton{font:12pt '宋体';background-color:#419AD9;color: white;border-radius:3px;}")
             if self.Cttime_num == 0:

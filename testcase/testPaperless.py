@@ -55,7 +55,7 @@ class TestPaperless(unittest.TestCase):
             self.parseexcel.clearCaseColumnValue(self.sheetnames[0])
             # 清除步骤旧数据
             for i, v in enumerate(self.sheetnames):
-                if i+1 == 1:
+                if i == 0:
                     continue
                 else:
                     self.parseexcel.clearStepColumnValue(v)
@@ -103,7 +103,7 @@ class TestPaperless(unittest.TestCase):
                                 # 循环所有的步骤编号
                                 # 获取对应用例编号的步骤编号的关键字，定位方式，表达式，操作值
                                 url = ParseYaml().ReadParameter('IP')
-                                while re.match(r"^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$", url) is None:
+                                while re.match(r"^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$", url) is None and re.match(r'[^\s]*[.com|.cn]', url) is None:
                                     url = ParseYaml().ReadParameter('IP')  # 从输入框获取浏览器地址
                                     # 先打开浏览器，进入指定IP地址
                                     time.sleep(1)
@@ -279,7 +279,7 @@ class TestPaperless(unittest.TestCase):
                                         # 获取输入值
                                         testvalue = self.parseexcel.getCellValue(sheetname, t + 2, testStep_Value)
                                         # 如果输入值为 int 类型，则强转为 str 类型，用于字符串拼接
-                                        if type(testvalue) is int:
+                                        if testvalue is not None and type(testvalue) is not str:
                                             testvalue = str(self.parseexcel.getCellValue(sheetname, t + 2, testStep_Value))
                                         # if testvalue.lower() == 'none':
                                         #     testvalue = ''

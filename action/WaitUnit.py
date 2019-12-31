@@ -24,7 +24,10 @@ class WaitUnit(object):
             'name': By.NAME,
             'css': By.CSS_SELECTOR,
             'link_text': By.LINK_TEXT,
-            'xpath': By.XPATH
+            'xpath': By.XPATH,
+            'class': By.CLASS_NAME,
+            'tag': By.TAG_NAME,
+            'link': By.PARTIAL_LINK_TEXT
         }
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 30)
@@ -48,7 +51,7 @@ if __name__ == '__main__':
     driver = webdriver.Chrome()
     driver.get('http://172.16.45.5')
     waitunit = WaitUnit(driver)
-    # waitunit.presenceOfElementLocated('name', 'account').send_keys('123')
+    waitunit.presenceOfElementLocated('name', 'account').send_keys('123')
 
 
 

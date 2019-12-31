@@ -15,6 +15,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
 from Utils.Logger import Logger
 from Utils.ParseYaml import ParseYaml
+from selenium.webdriver.common.by import By
 
 logger = Logger('logger').getlog()
 
@@ -23,6 +24,16 @@ class ObjectMap():
     def __init__(self, driver):
         self.driver = driver
         self.parseyaml = ParseYaml()
+        self.byDic = {
+            'id': By.ID,
+            'name': By.NAME,
+            'css': By.CSS_SELECTOR,
+            'link_text': By.LINK_TEXT,
+            'xpath': By.XPATH,
+            'class': By.CLASS_NAME,
+            'tag': By.TAG_NAME,
+            'link': By.PARTIAL_LINK_TEXT
+        }
 
     def getElement(self, by, locator):
         """
@@ -32,15 +43,17 @@ class ObjectMap():
         :param locator:
         :return: 元素对象
         """
+
         try:
-            # element = self.driver.find_element(by, locator)
-            element = WebDriverWait(self.driver, self.parseyaml.ReadTimeWait('elementtime')).until(EC.presence_of_all_elements_located((by, locator)))[0]
+            if by.lower() in self.byDic:
+                element = WebDriverWait(self.driver, self.parseyaml.ReadTimeWait('elementtime')).until(
+                    EC.presence_of_element_located((self.byDic[by.lower()], locator)))
+                logger.info('通过%s定位元素%s' % (by, locator))
+                return element
         except Exception as e:
             logger.info('元素定位失败')
             print(e)
-        else:
-            logger.info('通过%s定位元素%s' % (by, locator))
-            return element
+
 
     def getElements(self, by, locator):
         '''
@@ -51,20 +64,21 @@ class ObjectMap():
         :return: 元素组对象
         '''
         try:
-            # elements = self.driver.find_element(by, locator)
-            elements = WebDriverWait(self.driver, self.parseyaml.ReadTimeWait('elementtime')).until(EC.presence_of_all_elements_located((by, locator)))[0]
+            if by.lower() in self.byDic:
+                elements = WebDriverWait(self.driver, self.parseyaml.ReadTimeWait('elementtime')).until(
+                    EC.presence_of_all_elements_located((by, locator)))
+                logger.info('通过%s定位元素组%s' % (by, locator))
+                return elements
         except Exception as e:
             logger.info('元素组定位失败')
             print(e)
-        else:
-            logger.info('通过%s定位元素组%s' % (by, locator))
-            return elements
 
 
 if __name__ == '__main__':
     driver = webdriver.Chrome()
     objectmap = ObjectMap(driver)
-    driver.get('http://172.16.45.5')
+    driver.get('http://www.baidu.com')
     # for i in objectmap.getElements('name', 'account'):
     #     i.send_keys('1234565')
-    objectmap.getElement('name', 'account').send_keys('     ')
+    # objectmap.getElement('name', 'wd').send_keys('     ')
+    print(objectmap.getElement('class', 's_ipt'))
