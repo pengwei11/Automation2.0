@@ -325,22 +325,34 @@ class PageAction(object):
         # try:
         getValue = ObjectMap(self.driver).getElement(by, locator).get_attribute('value')
         getText = ObjectMap(self.driver).getElement(by, locator).text
-        if getValue == getText:
-            assert ObjectMap(self.driver).getElement(by, locator).get_attribute('value') == value
-            logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-            print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-        elif getValue == '' or getValue is None:
-            assert ObjectMap(self.driver).getElement(by, locator).text == value
-            logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
-            print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
-        elif getText == '' or getText is None:
-            assert ObjectMap(self.driver).getElement(by, locator).get_attribute('value') == value
-            logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-            print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        if getText == value:
+            assert getText == value
+            logger.info('%s=%s' % (getText, value))
+            print('%s=%s' % (getText, value))
+        elif getValue == value:
+            assert getValue == value
+            logger.info('%s=%s' % (getValue, value))
+            print('%s=%s' % (getValue, value))
         else:
-            assert ObjectMap(self.driver).getElement(by, locator).get_attribute('value') == value
-            logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-            print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+            assert getValue == value
+            logger.info('%s=%s' % (getValue, value))
+            print('%s=%s' % (getValue, value))
+        # if getValue == getText:
+        #     assert ObjectMap(self.driver).getElement(by, locator).get_attribute('value') == value
+        #     logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        #     print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        # elif getValue == '' or getValue is None:
+        #     assert ObjectMap(self.driver).getElement(by, locator).text == value
+        #     logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
+        #     print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
+        # elif getText == '' or getText is None:
+        #     assert ObjectMap(self.driver).getElement(by, locator).get_attribute('value') == value
+        #     logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        #     print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        # else:
+        #     assert ObjectMap(self.driver).getElement(by, locator).get_attribute('value') == value
+        #     logger.info('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        #     print('%s=%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
         # except AssertionError:
         #     getValue = ObjectMap(self.driver).getElement(by, locator).get_attribute('value')
         #     getText = ObjectMap(self.driver).getElement(by, locator).text
@@ -366,6 +378,42 @@ class PageAction(object):
         #     logger.info('断言失败')
         #     print('断言失败')
 
+    def assertElementEqule(self, by, locator, value):
+        '''
+        检查指定元素字符串与指定元素字符串是否相同
+        :return:
+        '''
+        # try:
+        getValue1 = ObjectMap(self.driver).getElement(by, locator).get_attribute('value')
+        getText1 = ObjectMap(self.driver).getElement(by, locator).text
+
+        getValue2 = ObjectMap(self.driver).getElement(by, value).get_attribute('value')
+        getText2 = ObjectMap(self.driver).getElement(by, value).text
+        if getValue1 == getValue2 and getValue1 != '0' and getValue1 is not None:
+            print(1)
+            assert getValue1 == getValue2
+            logger.info('%s=%s' % (getValue1, getValue2))
+            print('%s=%s' % (getValue1, getValue2))
+        elif getValue1 == getText1 and getValue1 != '0'  and getValue1 is not None:
+            print(12)
+            assert getValue1 == getText1
+            logger.info('%s=%s' % (getValue1, getText1))
+            print('%s=%s' % (getValue1, getText1))
+        elif getText1 == getValue2 and getValue2 != '0'  and getValue2 is not None:
+            print(13)
+            assert getText1 == getValue2
+            logger.info('%s=%s' % (getText1, getValue2))
+            print('%s=%s' % (getText1, getValue2))
+        elif getText1 == getText2 and getText1 != '' and getText1 is not None:
+            print(14)
+            assert getText1 == getText2
+            logger.info('%s=%s' % (getText1, getText2))
+            print('%s=%s' % (getText1, getText2))
+        else:
+            assert getText1 == getText2
+            logger.info('%s=%s' % (getText1, getText2))
+            print('%s=%s' % (getText1, getText2))
+
     def assertLen(self, by, locator, value):
         '''
         检查指定元素字符串长度
@@ -374,24 +422,36 @@ class PageAction(object):
         # try:
         getValue = ObjectMap(self.driver).getElement(by, locator).get_attribute('value')
         getText = ObjectMap(self.driver).getElement(by, locator).text
-        if getValue == getText:
-            assert len(ObjectMap(self.driver).getElement(by, locator).get_attribute('value')) == int(value)
-            logger.info('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-            print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-        elif getValue == '' or getValue is None:
-            assert len(ObjectMap(self.driver).getElement(by, locator).text) == int(value)
-            logger.info('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
-            print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
-        elif getText == '' or getText is None:
-            assert len(ObjectMap(self.driver).getElement(by, locator).get_attribute('value')) == int(value)
-            logger.info(
-                '"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-            print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        if len(getText) == int(value):
+            assert len(getText) == int(value)
+            logger.info('%s=%s' % (len(getText), int(value)))
+            print('%s=%s' % (len(getText), int(value)))
+        elif len(getValue) == int(value):
+            assert len(getValue) == int(value)
+            logger.info('%s=%s' % (len(getValue), int(value)))
+            print('%s=%s' % (len(getValue), int(value)))
         else:
-            assert len(ObjectMap(self.driver).getElement(by, locator).get_attribute('value')) == int(value)
-            logger.info(
-                '"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
-            print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+            assert len(getValue) == int(value)
+            logger.info('%s=%s' % (len(getValue), int(value)))
+            print('%s=%s' % (len(getValue), int(value)))
+        # if getValue == getText:
+        #     assert len(ObjectMap(self.driver).getElement(by, locator).get_attribute('value')) == int(value)
+        #     logger.info('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        #     print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        # elif getValue == '' or getValue is None:
+        #     assert len(ObjectMap(self.driver).getElement(by, locator).text) == int(value)
+        #     logger.info('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
+        #     print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).text, value))
+        # elif getText == '' or getText is None:
+        #     assert len(ObjectMap(self.driver).getElement(by, locator).get_attribute('value')) == int(value)
+        #     logger.info(
+        #         '"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        #     print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        # else:
+        #     assert len(ObjectMap(self.driver).getElement(by, locator).get_attribute('value')) == int(value)
+        #     logger.info(
+        #         '"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
+        #     print('"%s"长度为%s' % (ObjectMap(self.driver).getElement(by, locator).get_attribute('value'), value))
         # except AssertionError as e:
         #     logger.info('"%s" 在页面中未找到' % ObjectMap(self.driver).getElement(by,locator).get_attribute('value'))
         #     print('"%s" 在页面中未找到' % ObjectMap(self.driver).getElement(by,locator).get_attribute('value'))
@@ -402,14 +462,17 @@ class PageAction(object):
         #     logger.info('断言失败')
         #     print('断言失败')
 
-    def assertElement(self, by, locator):
+    def assertElement(self, by, locator, flag):
         '''
         判断元素是否存在
         :return:
         '''
         # flag = True
         # try:
-        assert ObjectMap(self.driver).getElement(by, locator)
+        if flag.lower() == 'true':
+            assert ObjectMap(self.driver).getElement(by, locator)
+        else:
+            assert not ObjectMap(self.driver).getElement(by, locator)
             # return flag
         # except AssertionError as e:
         #     logger.info('页面中未找到元素')
@@ -603,19 +666,26 @@ class PageAction(object):
         #     logger.exception("未找到元素")
         #     print("未找到元素")
 
+
 if __name__ == '__main__':
     p = PageAction()
     p.openBrowser()
     o = ObjectMap(p.driver)
     # p.saveScreeShot('登录', '侧四')
     # p.getUrl('http://172.16.45.5')
-    str = 'p.getUrl("http://www.baidu.com")'
+    str = 'p.getUrl("http://172.16.45.5")'
     eval(str)
-    p.click('class', 'soutu-btn')
-    p.inputValue('class', 'upload-pic', r'E:\Automation2.0\resource\新建文本文档.txt')
-    p.not_wait_find_element('css', '.soutu-state-waiting.soutu-waiting')
-    print(o.getElement('class', 'soutu-error-main').text)
-    p.assertEqule('class', 'soutu-error-main', '抱歉，您上传的文件不是图片格式，请')
+    p.inputValue('name','account','admin')
+    p.inputValue('name','password','admin')
+    p.click('id','loginBtn')
+    p.click('css','#tableBox > div > table > tbody > tr:nth-child(1) > td.tdC3 > span > a')
+    p.click('css','#iframeLeftMune > div.muneList > div:nth-child(2) > ul > a:nth-child(5) > li')
+    p.assertElementEqule('css', '.f-flex-content.table_n.clear > li:nth-child(2)', '.f-flex-content.table_n.clear > li:nth-child(3)')
+    print(2)
+    # assert ObjectMap(p.driver).getElement('css', '.f-flex-content.table_n.clear > li:nth-child(2)')
+    # print(o.getElement('css', '.f-flex-content.table_n.clear > li:nth-child(2)').get_attribute('value'))
+    # print(o.getElement('css', '.f-flex-content.table_n.clear > li:nth-child(2)').text)
+    # p.assertEqule('css','.f-flex-content.table_n.clear > li:nth-child(2)','排序')
     # p.click('css', '.linkColor')
     # p.inputValue('name', 'register', 'CCtd-rZOk-adWi-f3zK-R3O6-mF+X-tg5h-A4dd')
     # p.click('id','registBtn')

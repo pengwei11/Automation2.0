@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe8c4865-0a16-4346-889d-09ddd7645bf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Automation2.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automation2.0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Automation.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils/ParseExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/ParseExcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action/ObjectMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/ObjectMap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/PageAction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action/WaitUnit.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/WaitUnit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action/geckodriver.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config/Parameter.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/Parameter.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceltemplate/测试用例编写说明.doc" beforeDir="false" afterPath="$PROJECT_DIR$/exceltemplate/测试用例编写说明.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/logger-2019-12-23-09_20_22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/testPaperless.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/testPaperless.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -707,98 +702,6 @@
       </favorite_root>
     </favorites_list>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="813" column="26" selection-start-line="813" selection-start-column="26" selection-end-line="813" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/Parameter.yaml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action/WaitUnit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action/PageAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="403" selection-start-line="403" selection-end-line="403" />
-              <folding>
-                <element signature="e#245#283#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action/ObjectMap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="17" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
-              <caret line="397" selection-start-line="397" selection-end-line="397" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Paperless1.0/tools/common/BrowserDriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4630">
-              <caret line="503" selection-start-line="503" selection-end-line="503" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/testPaperless.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="281" column="52" selection-start-line="281" selection-start-column="52" selection-end-line="281" selection-end-column="52" />
-              <folding>
-                <element signature="e#151#190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logs/logger-2019-12-31-15_27_50.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="382">
-              <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -806,104 +709,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>温馨提示</find>
-      <find>CREATE_ENEMY_EVENT</find>
-      <find>sava</find>
-      <find>Title</find>
-      <find>SD</find>
-      <find>print</find>
-      <find>filepath</find>
-      <find>browser</find>
-      <find>self.pageaction.quitBrowser()</find>
-      <find>quit</find>
-      <find>save</find>
-      <find>assertEq</find>
-      <find>quitbrowser</find>
-      <find>sleep</find>
-      <find>QApplication</find>
-      <find>text</find>
-      <find>setStyleSheet</find>
-      <find>white</find>
-      <find>123</find>
-      <find>执行失败</find>
-      <find>return</find>
-      <find>raise</find>
-      <find>132$%!</find>
-      <find>请先关闭用例文件，再运行测试用例</find>
-      <find>times</find>
-      <find>o_times</find>
-      <find>list</find>
-      <find>get</find>
-      <find>assert</find>
-      <find>assertElement</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>self.parseexcel</replace>
-      <replace>newfile</replace>
-      <replace>red</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/action/__init__.py" />
-        <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/utils/__init__.py" />
-        <option value="$PROJECT_DIR$/testcase/__init__.py" />
-        <option value="$PROJECT_DIR$/exceltemplate/__init__.py" />
-        <option value="$PROJECT_DIR$/utils/frozen_dir.py" />
-        <option value="$PROJECT_DIR$/frozen_dir.py" />
-        <option value="$PROJECT_DIR$/utils/configread.py" />
-        <option value="$PROJECT_DIR$/utils/ConfigRead.py" />
-        <option value="$PROJECT_DIR$/utils/Logger.py" />
-        <option value="$PROJECT_DIR$/Utils/Logger.py" />
-        <option value="$PROJECT_DIR$/../Paperless2.0/utils/ParseExcel.py" />
-        <option value="$PROJECT_DIR$/Utils/DirAndTime.py" />
-        <option value="$PROJECT_DIR$/Utils/WriteFile.py" />
-        <option value="$PROJECT_DIR$/config/GuiSelectValue" />
-        <option value="$PROJECT_DIR$/config/GuiSelectValue.yaml.py" />
-        <option value="$PROJECT_DIR$/config/GuiSelectValue.yaml" />
-        <option value="$PROJECT_DIR$/testcase/test_paperless.py" />
-        <option value="$PROJECT_DIR$/widget.py" />
-        <option value="$PROJECT_DIR$/PaperlessGui(2).py" />
-        <option value="$PROJECT_DIR$/config/TimeWait.yaml" />
-        <option value="$PROJECT_DIR$/Utils/ReadFile.py" />
-        <option value="$PROJECT_DIR$/report/20191122112445.html" />
-        <option value="$PROJECT_DIR$/PaperlessGui(3).py" />
-        <option value="$PROJECT_DIR$/PaperlessGui.py" />
-        <option value="$PROJECT_DIR$/333333.py" />
-        <option value="$PROJECT_DIR$/ces.py" />
-        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/openpyxl/reader/excel.py" />
-        <option value="$PROJECT_DIR$/testdata/PaperlessGui.py" />
-        <option value="$PROJECT_DIR$/testdata/plane_main.py" />
-        <option value="$PROJECT_DIR$/testdata/plane_sprites.py" />
-        <option value="$PROJECT_DIR$/logs/logger-2019-11-29-11_18_34.log" />
-        <option value="$PROJECT_DIR$/testdata/Automation.py" />
-        <option value="$PROJECT_DIR$/../Paperless1.0/PaperlessClient.py" />
-        <option value="$PROJECT_DIR$/../学习文件/pengwei电脑/77/weixin.py" />
-        <option value="$PROJECT_DIR$/Utils/ConfigRead.py" />
-        <option value="$PROJECT_DIR$/Utils/ParseYaml.py" />
-        <option value="$PROJECT_DIR$/Frozen_Dir.py" />
-        <option value="$PROJECT_DIR$/PaperlessClient.py" />
-        <option value="$PROJECT_DIR$/testdata/wxGui.py" />
-        <option value="$PROJECT_DIR$/untitled.py" />
-        <option value="$PROJECT_DIR$/testdata/ces.py" />
-        <option value="$PROJECT_DIR$/config/Parameter.yaml" />
-        <option value="F:/Paperless1.0/visualization/PaperlessClient.py" />
-        <option value="$PROJECT_DIR$/testdata/ce.py" />
-        <option value="$PROJECT_DIR$/Utils/ParseExcel.py" />
-        <option value="$PROJECT_DIR$/action/WaitUnit.py" />
-        <option value="$PROJECT_DIR$/action/ObjectMap.py" />
-        <option value="$PROJECT_DIR$/action/PageAction.py" />
-        <option value="$PROJECT_DIR$/Automation.py" />
-        <option value="$PROJECT_DIR$/testcase/testPaperless.py" />
-      </list>
-    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -912,54 +719,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1402" />
-    <option name="height" value="763" />
-  </component>
+  <component name="ProjectId" id="1VuURyVg3toObFjWkK1EmuT6olA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Automation2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation2.0" type="47feb1d3:ProjectViewModuleNode" />
-            </path>
-            <path>
-              <item name="Automation2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation2.0" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="Automation2.0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation2.0" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="Automation2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation2.0" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="Automation2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation2.0" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="Automation2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -986,26 +751,14 @@
       <recent name="E:\Paperless2.1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Paperless1.0" />
       <recent name="E:\Automation2.0\resource" />
       <recent name="E:\Automation2.0" />
       <recent name="E:\Automation2.0\testdata" />
       <recent name="E:\Paperless2.1\testdata" />
-      <recent name="E:\Paperless2.1" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.testPaperless">
+  <component name="RunManager" selected="Python.mainwindow">
     <configuration name="Automation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automation2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1094,7 +847,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ParseExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dialog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automation2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1102,12 +855,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Paperless1.0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/ParseExcel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Paperless1.0/dialog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1116,7 +869,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WaitUnit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainwindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automation2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1124,12 +877,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/action" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Paperless1.0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/action/WaitUnit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Paperless1.0/mainwindow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1188,20 +941,32 @@
       <item itemvalue="Python.PaperlessGui(3)" />
       <item itemvalue="Python.testPaperless" />
       <item itemvalue="Python.Automation" />
-      <item itemvalue="Python.PageAction" />
-      <item itemvalue="Python.ParseExcel" />
       <item itemvalue="Python.ObjectMap" />
-      <item itemvalue="Python.WaitUnit" />
+      <item itemvalue="Python.PageAction" />
+      <item itemvalue="Python.mainwindow" />
+      <item itemvalue="Python.dialog" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mainwindow" />
+        <item itemvalue="Python.dialog" />
+        <item itemvalue="Python.Automation" />
         <item itemvalue="Python.PageAction" />
         <item itemvalue="Python.ObjectMap" />
-        <item itemvalue="Python.WaitUnit" />
-        <item itemvalue="Python.ParseExcel" />
-        <item itemvalue="Python.Automation" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1232,6 +997,12 @@
       <workItem from="1577258353055" duration="3225000" />
       <workItem from="1577265896494" duration="10769000" />
       <workItem from="1577411565092" duration="33093000" />
+      <workItem from="1577943985637" duration="21142000" />
+      <workItem from="1578100364694" duration="4000" />
+      <workItem from="1578100663852" duration="5000" />
+      <workItem from="1578102500942" duration="43000" />
+      <workItem from="1578102646621" duration="7841000" />
+      <workItem from="1578303471262" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1577070319840</created>
@@ -1265,9 +1036,6 @@
       <configuration name="Unittests for testPaperless.TestPaperless" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="609709000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -1276,32 +1044,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" order="0" sideWeight="0.50454545" side_tool="true" weight="0.14285715" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49545455" visible="true" weight="0.15405117" />
-      <window_info id="Structure" order="2" sideWeight="0.5014837" side_tool="true" weight="0.15991472" />
-      <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.48933902" visible="true" weight="0.24160346" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.510661" side_tool="true" visible="true" weight="0.24160346" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4989339" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="4" sideWeight="0.49520257" weight="0.32827735" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49573562" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.48667377" weight="0.29035753" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49840087" weight="0.32900432" />
-      <window_info anchor="right" id="Database" order="0" weight="0.32995737" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1312,387 +1054,76 @@
     <MESSAGE value="修改" />
     <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578105541351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578105541351" />
+    <state width="912" height="240" key="GridCell.Tab.0.bottom" timestamp="1578291063898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063898" />
+    <state width="912" height="240" key="GridCell.Tab.0.center" timestamp="1578291063897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063897" />
+    <state width="912" height="240" key="GridCell.Tab.0.left" timestamp="1578291063897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063897" />
+    <state width="912" height="240" key="GridCell.Tab.0.right" timestamp="1578291063898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063898" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1578303480492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578303480492" />
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1578102496048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578102496048" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578104325120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578104325120" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Automation2_0$ces__1_.coverage" NAME="ces (1) Coverage Results" MODIFIED="1576738097439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
-    <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient.coverage" NAME="PaperlessClient Coverage Results" MODIFIED="1576662017325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Paperless1.0/visualization" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$WriteFile.coverage" NAME="WriteFile Coverage Results" MODIFIED="1573778937251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui.coverage" NAME="PaperlessGui Coverage Results" MODIFIED="1574820827737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$Unittests_for_testPaperless_TestPaperless.coverage" NAME="Unittests for testPaperless.TestPaperless Coverage Results" MODIFIED="1574907023450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui__1_.coverage" NAME="PaperlessGui (1) Coverage Results" MODIFIED="1574843399075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1573714051604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1578107670223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$configread.coverage" NAME="configread Coverage Results" MODIFIED="1573701820802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ParseYaml.coverage" NAME="ParseYaml Coverage Results" MODIFIED="1576228701049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
     <SUITE FILE_PATH="coverage/Paperless2_1$ces.coverage" NAME="ces Coverage Results" MODIFIED="1574904445607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Automation2_0$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1577417937420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_3_.coverage" NAME="PaperlessGui(3) Coverage Results" MODIFIED="1574410253608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$mainwindow.coverage" NAME="mainwindow Coverage Results" MODIFIED="1578290736750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Paperless1.0" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1574922946007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_2_.coverage" NAME="PaperlessGui(2) Coverage Results" MODIFIED="1574129264754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir.coverage" NAME="frozen_dir Coverage Results" MODIFIED="1573700569389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1577427032561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
     <SUITE FILE_PATH="coverage/Automation2_0$WaitUnit.coverage" NAME="WaitUnit Coverage Results" MODIFIED="1577426650716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-    <SUITE FILE_PATH="coverage/Automation2_0$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1574992163191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Automation2_0$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1577777504268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1574920258066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient__1_.coverage" NAME="PaperlessClient (1) Coverage Results" MODIFIED="1576717089062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir__1_.coverage" NAME="frozen_dir (1) Coverage Results" MODIFIED="1573700581284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1574905776803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
     <SUITE FILE_PATH="coverage/Paperless2_1$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1574920937876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
     <SUITE FILE_PATH="coverage/Automation2_0$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1577418071942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-    <SUITE FILE_PATH="coverage/Automation2_0$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1577430430571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$ParseYaml.coverage" NAME="ParseYaml Coverage Results" MODIFIED="1574306064763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$Logger.coverage" NAME="Logger Coverage Results" MODIFIED="1573712447761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui.coverage" NAME="PaperlessGui Coverage Results" MODIFIED="1574820827737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Automation2_0$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1576722241604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Automation2_0$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1577427032561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir.coverage" NAME="frozen_dir Coverage Results" MODIFIED="1573700569389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1573714051604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$333333.coverage" NAME="333333 Coverage Results" MODIFIED="1574840461563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1574920258066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-    <SUITE FILE_PATH="coverage/Automation2_0$ce.coverage" NAME="ce Coverage Results" MODIFIED="1576897281904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir__1_.coverage" NAME="frozen_dir (1) Coverage Results" MODIFIED="1573700581284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient__1_.coverage" NAME="PaperlessClient (1) Coverage Results" MODIFIED="1576717089062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$configread.coverage" NAME="configread Coverage Results" MODIFIED="1573701820802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/Automation2_0$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1577777504268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$ReadFile.coverage" NAME="ReadFile Coverage Results" MODIFIED="1574301561442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_2_.coverage" NAME="PaperlessGui(2) Coverage Results" MODIFIED="1574129264754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$Unittests_for_testPaperless_TestPaperless.coverage" NAME="Unittests for testPaperless.TestPaperless Coverage Results" MODIFIED="1574907023450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
-    <SUITE FILE_PATH="coverage/Automation2_0$ParseYaml.coverage" NAME="ParseYaml Coverage Results" MODIFIED="1576228701049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$Automation.coverage" NAME="Automation Coverage Results" MODIFIED="1574922946007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui__1_.coverage" NAME="PaperlessGui (1) Coverage Results" MODIFIED="1574843399075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1573789450809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
     <SUITE FILE_PATH="coverage/Automation2_0$wxGui.coverage" NAME="wxGui Coverage Results" MODIFIED="1576720200986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
-    <SUITE FILE_PATH="coverage/Paperless2_1$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1574905776803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="257" column="8" selection-start-line="257" selection-start-column="8" selection-end-line="257" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/qtconsole/completion_widget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frozen_Dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
-          <folding>
-            <element signature="e#157#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testdata/ce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/Logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-362230928/PyQt5/QtWidgets/QListWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="380" column="8" selection-start-line="380" selection-start-column="8" selection-end-line="380" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/mainwindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3730" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/PaperlessClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1705">
-          <caret line="241" column="5" selection-start-line="241" selection-start-column="5" selection-end-line="241" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/assertion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/file_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/file_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2755" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="315" selection-start-line="315" selection-end-line="315" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/utils/logger.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/login/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="551" selection-start-line="551" selection-end-line="551" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meeingtopic/test_meetingtopic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-511">
-          <caret line="2745" selection-start-line="2745" selection-end-line="2745" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meetingagenda/test_meetingagenda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1111">
-          <caret line="1732" selection-start-line="1732" selection-end-line="1732" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meetingslogan/test_meetingslogan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-611">
-          <caret line="1150" selection-start-line="1150" selection-end-line="1150" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingmanagement/historyconference/test_historyconference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-986">
-          <caret line="1954" selection-start-line="1954" selection-end-line="1954" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingmanagement/meetingconference/test_meetingconference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="959" selection-start-line="959" selection-end-line="959" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingmanagement/meetinglist/test_meetinglist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="1468" selection-start-line="1468" selection-end-line="1468" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/attendees/test_personnelmanagement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="1352" selection-start-line="1352" selection-end-line="1352" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/nameplate/test_nameplatescreen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="586" selection-start-line="586" selection-end-line="586" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/usermanagement/organizationalstructure/test_organizationalstructure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="318" selection-start-line="318" selection-end-line="318" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/usermanagement/usergroup/test_usergroup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="1153" selection-start-line="1153" selection-end-line="1153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/usermanagement/userlist/test_userlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="1303" column="26" selection-start-line="1303" selection-start-column="26" selection-end-line="1303" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/DirAndTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/HTMLTestRunner_cn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3900">
-          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
-          <folding>
-            <element signature="e#3463#3478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../seleium_test/python-selenium2-master/report/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../seleium_test/KeyWordPlusDataDrivenFramework-master/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/ParseExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-770">
-          <caret line="308" column="16" selection-start-line="308" selection-start-column="16" selection-end-line="308" selection-end-column="16" />
-          <folding>
-            <element signature="e#246#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/ParseYaml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/ConfigRead.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/meetingdocuments/meetingdocument/test_meetingdocument.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="1495" column="60" lean-forward="true" selection-start-line="1495" selection-start-column="60" selection-end-line="1495" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/nameplate/test_copywritingdesign.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4180">
-          <caret line="602" selection-start-line="602" selection-end-line="602" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/test/personnelmanagement/nameplate/test_welcomescreen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2006">
-          <caret line="410" column="108" selection-start-line="410" selection-start-column="105" selection-end-line="410" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-841">
-          <caret line="953" column="8" selection-start-line="953" selection-start-column="8" selection-end-line="953" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="397" selection-start-line="397" selection-end-line="397" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Paperless1.0/tools/common/BrowserDriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4630">
-          <caret line="503" selection-start-line="503" selection-end-line="503" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/123.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/111.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/WaitUnit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/ObjectMap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="403" selection-start-line="403" selection-end-line="403" />
-          <folding>
-            <element signature="e#245#283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/AirtestIDE_2019-09-11_py3_win64/selenium/webdriver/chrome/options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4050">
-          <caret selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/Parameter.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="813" column="26" selection-start-line="813" selection-start-column="26" selection-end-line="813" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/testPaperless.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="281" column="52" selection-start-line="281" selection-start-column="52" selection-end-line="281" selection-end-column="52" />
-          <folding>
-            <element signature="e#151#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/logger-2019-12-31-15_27_50.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="382">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/Automation2_0$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1578105403116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ces__1_.coverage" NAME="ces (1) Coverage Results" MODIFIED="1576738097439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Automation2_0$dialog.coverage" NAME="dialog Coverage Results" MODIFIED="1578110197972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Paperless1.0" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1573789450809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$PaperlessGui_3_.coverage" NAME="PaperlessGui(3) Coverage Results" MODIFIED="1574410253608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1576722241604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient.coverage" NAME="PaperlessClient Coverage Results" MODIFIED="1576662017325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Paperless1.0/visualization" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$Logger.coverage" NAME="Logger Coverage Results" MODIFIED="1573712447761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ReadFile.coverage" NAME="ReadFile Coverage Results" MODIFIED="1574301561442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$ParseYaml.coverage" NAME="ParseYaml Coverage Results" MODIFIED="1574306064763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1574992163191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$333333.coverage" NAME="333333 Coverage Results" MODIFIED="1574840461563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Paperless2_1$WriteFile.coverage" NAME="WriteFile Coverage Results" MODIFIED="1573778937251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/Automation2_0$ce.coverage" NAME="ce Coverage Results" MODIFIED="1576897281904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
   </component>
 </project>

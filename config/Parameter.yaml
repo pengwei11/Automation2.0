@@ -3,6 +3,6 @@ Browser: Google Chrome
 ReportAddress: ''
 loop: '1'
 ImportAddress: "d:\\Desktop\\\u65E0\u7EB8\u5316\u6D4B\u8BD5\u6587\u4EF6.xlsx"
-Moudle: "\u5168\u90E8"
+Moudle: "\u4E34\u65F6\u8D44\u6599"
 Version: '75'
-CaseNum: 1
+CaseNum: 3

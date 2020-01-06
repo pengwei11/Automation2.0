@@ -131,10 +131,10 @@ class TestPaperless(unittest.TestCase):
                                         # 获取输入值
                                         pre_testvalue = self.parseexcel.getCellValue(sheetname, t + 2, testStep_Value)
                                         # 如果输入值为 int 类型，则强转为 str 类型，用于字符串拼接
-                                        if type(pre_testvalue) is int:
+                                        if pre_testvalue is not None and type(pre_testvalue) is not str:
                                             pre_testvalue = str(self.parseexcel.getCellValue(sheetname, t + 2, testStep_Value))
                                         # 总共有四种情况可以正常执行，其他情况则会将用例判断为运行失败
-                                        # 1.关键字，定位方式，表达式，输入值全部不为空的情况 例：send_keys
+                                        # 1.关键字，定位方式，表达式，输入值全部不为空的情况 例：send_keyslower
                                         # 2.关键字，输入值不为空，定位方式，表达式为空的情况 例：assert（断言）
                                         # 3.关键字，定位方式，表达式不为空，输入值为空的情况 例：click
                                         # 4.关键字不为空，定位方式，表达式，输入值为空的情况 例 getTitle
