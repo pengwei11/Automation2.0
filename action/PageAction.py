@@ -15,6 +15,7 @@ from Utils.DirAndTime import DirAndTime
 from action.WaitUnit import WaitUnit
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 # from selenium.common.exceptions import *   # 导入所有异常类
 from selenium import webdriver
@@ -611,7 +612,7 @@ class PageAction(object):
         #     logger.exception('查找失败')
         #     print('查找失败')
 
-    def text_wait_find_element(self, by, locator):
+    def text_wait_find_element(self, by, locator, value):
         '''
         显性等待30S判断单个元素是否可见，可见返回元素，否则抛出异常
         :param loc: 传入参数为By.xx(xx为元素定位方式),Value(为元素定位内容)
@@ -619,7 +620,7 @@ class PageAction(object):
         '''
         # try:
         if by.lower() in self.byDic:
-            element = WebDriverWait(self.driver, 60).until(EC.text_to_be_present_in_element(self.byDic[by.lower()], locator))
+            element = WebDriverWait(self.driver, 60).until((EC.text_to_be_present_in_element(self.byDic[by.lower()], locator)), value)
             return element
         # except NoSuchElementException:
         #     logger.exception('找不到元素')
@@ -631,7 +632,7 @@ class PageAction(object):
         #     logger.exception('查找失败')
         #     print('查找失败')
 
-    def not_text_wait_find_element(self, by, locator):
+    def not_text_wait_find_element(self, by, locator, value):
         '''
         显性等待30S判断单个元素是否可见，可见返回元素，否则抛出异常
         :param loc: 传入参数为By.xx(xx为元素定位方式),Value(为元素定位内容)
@@ -639,7 +640,7 @@ class PageAction(object):
         '''
         # try:
         if by.lower() in self.byDic:
-            element = WebDriverWait(self.driver, 60).until_not(EC.text_to_be_present_in_element(self.byDic[by.lower()], locator))
+            element = WebDriverWait(self.driver, 60).until_not((EC.text_to_be_present_in_element(self.byDic[by.lower()], locator)), value)
             return element
         # except NoSuchElementException:
         #     logger.exception('找不到元素')
@@ -650,6 +651,11 @@ class PageAction(object):
         # except:
         #     logger.exception('查找失败')
         #     print('查找失败')
+
+    def Enter(self, by, locator):
+        # 模拟键盘回车
+        ObjectMap(self.driver).getElement(by, locator).send_keys(Keys.ENTER)
+
 
     def move_to_element(self, by, locator):
         '''
@@ -680,8 +686,7 @@ if __name__ == '__main__':
     p.click('id','loginBtn')
     p.click('css','#tableBox > div > table > tbody > tr:nth-child(1) > td.tdC3 > span > a')
     p.click('css','#iframeLeftMune > div.muneList > div:nth-child(2) > ul > a:nth-child(5) > li')
-    p.assertElementEqule('css', '.f-flex-content.table_n.clear > li:nth-child(2)', '.f-flex-content.table_n.clear > li:nth-child(3)')
-    print(2)
+    p.text_wait_find_element('css', '#meetingDatum > div.table_w.clear.tableWrapComm > div.m-meeting-datum-hd-bg > ul > li:nth-child(2)', '排序')
     # assert ObjectMap(p.driver).getElement('css', '.f-flex-content.table_n.clear > li:nth-child(2)')
     # print(o.getElement('css', '.f-flex-content.table_n.clear > li:nth-child(2)').get_attribute('value'))
     # print(o.getElement('css', '.f-flex-content.table_n.clear > li:nth-child(2)').text)

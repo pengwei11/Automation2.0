@@ -2,7 +2,7 @@ IP: 172.16.45.5
 Browser: Google Chrome
 ReportAddress: ''
 loop: '1'
-ImportAddress: "d:\\Desktop\\\u65E0\u7EB8\u5316\u6D4B\u8BD5\u6587\u4EF6.xlsx"
+ImportAddress: "d:\\Desktop\\\u65E0\u7EB8\u5316\u6D4B\u8BD5\u6587\u4EF6(1).xlsx"
 Moudle: "\u4E34\u65F6\u8D44\u6599"
 Version: '75'
-CaseNum: 3
+CaseNum: 1

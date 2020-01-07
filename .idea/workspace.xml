@@ -3,14 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="fe8c4865-0a16-4346-889d-09ddd7645bf7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Automation.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/PageAction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action/geckodriver.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config/Parameter.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/Parameter.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/logger-2019-12-23-09_20_22.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/testPaperless.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/testPaperless.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/无纸化测试文件.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/geckodriver.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -758,7 +755,7 @@
       <recent name="E:\Paperless2.1\testdata" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mainwindow">
+  <component name="RunManager" selected="Python.testPaperless">
     <configuration name="Automation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automation2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -948,10 +945,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PageAction" />
         <item itemvalue="Python.mainwindow" />
         <item itemvalue="Python.dialog" />
         <item itemvalue="Python.Automation" />
-        <item itemvalue="Python.PageAction" />
         <item itemvalue="Python.ObjectMap" />
       </list>
     </recent_temporary>
@@ -1002,7 +999,7 @@
       <workItem from="1578100663852" duration="5000" />
       <workItem from="1578102500942" duration="43000" />
       <workItem from="1578102646621" duration="7841000" />
-      <workItem from="1578303471262" duration="9000" />
+      <workItem from="1578303471262" duration="5111000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1577070319840</created>
@@ -1025,7 +1022,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577259644766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改关键字">
+      <created>1578303566459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578303566459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1052,33 +1056,42 @@
     <MESSAGE value="第一次提交" />
     <MESSAGE value="增加" />
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="修改关键字" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改关键字" />
   </component>
   <component name="WindowStateProjectService">
     <state x="699" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578105541351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578105541351" />
-    <state width="912" height="240" key="GridCell.Tab.0.bottom" timestamp="1578291063898">
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1578303526408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063898" />
-    <state width="912" height="240" key="GridCell.Tab.0.center" timestamp="1578291063897">
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578303526408" />
+    <state width="912" height="240" key="GridCell.Tab.0.bottom" timestamp="1578311764246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063897" />
-    <state width="912" height="240" key="GridCell.Tab.0.left" timestamp="1578291063897">
+    <state width="912" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578311764246" />
+    <state width="912" height="240" key="GridCell.Tab.0.center" timestamp="1578311764246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063897" />
-    <state width="912" height="240" key="GridCell.Tab.0.right" timestamp="1578291063898">
+    <state width="912" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578311764246" />
+    <state width="912" height="240" key="GridCell.Tab.0.left" timestamp="1578311764246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578291063898" />
+    <state width="912" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578311764246" />
+    <state width="912" height="240" key="GridCell.Tab.0.right" timestamp="1578311764246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578311764246" />
     <state x="461" y="151" key="SettingsEditor" timestamp="1578303480492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578303480492" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1578303540143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578303540143" />
     <state x="640" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1578102496048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1103,7 +1116,7 @@
     <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir.coverage" NAME="frozen_dir Coverage Results" MODIFIED="1573700569389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/Automation2_0$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1577427032561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
     <SUITE FILE_PATH="coverage/Automation2_0$WaitUnit.coverage" NAME="WaitUnit Coverage Results" MODIFIED="1577426650716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-    <SUITE FILE_PATH="coverage/Automation2_0$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1577777504268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automation2_0$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1578311207198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
     <SUITE FILE_PATH="coverage/Paperless2_1$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1574920258066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
     <SUITE FILE_PATH="coverage/Automation2_0$PaperlessClient__1_.coverage" NAME="PaperlessClient (1) Coverage Results" MODIFIED="1576717089062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Paperless2_1$frozen_dir__1_.coverage" NAME="frozen_dir (1) Coverage Results" MODIFIED="1573700581284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1111,7 +1124,7 @@
     <SUITE FILE_PATH="coverage/Paperless2_1$testPaperless.coverage" NAME="testPaperless Coverage Results" MODIFIED="1574920937876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
     <SUITE FILE_PATH="coverage/Automation2_0$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1577418071942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
     <SUITE FILE_PATH="coverage/Automation2_0$wxGui.coverage" NAME="wxGui Coverage Results" MODIFIED="1576720200986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
-    <SUITE FILE_PATH="coverage/Automation2_0$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1578105403116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/Automation2_0$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1578310991614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
     <SUITE FILE_PATH="coverage/Automation2_0$ces__1_.coverage" NAME="ces (1) Coverage Results" MODIFIED="1576738097439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
     <SUITE FILE_PATH="coverage/Automation2_0$dialog.coverage" NAME="dialog Coverage Results" MODIFIED="1578110197972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Paperless1.0" />
     <SUITE FILE_PATH="coverage/Paperless2_1$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1573789450809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
